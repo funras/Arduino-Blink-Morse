@@ -1,4 +1,4 @@
 Just for LULZ
-Blink a led in arduino with codification morse. Since most arduinos have a led plugged in pin 13 this code dont need aditional hardware.
+Blink a led in arduino with morse codification. Most Arduino boards already have an LED attached to pin 13 itself. If you run this example with no hardware attached, you should see that LED blink.
 Peace.
 funras
